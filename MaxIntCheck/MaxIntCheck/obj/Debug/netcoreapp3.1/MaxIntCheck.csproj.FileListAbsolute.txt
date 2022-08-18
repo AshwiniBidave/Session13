@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Session13\MaxIntCheck\MaxIntCheck\bin\Debug\netcoreapp3.1\MaxIntCheck.exe
+C:\Users\Administrator\Desktop\Session13\MaxIntCheck\MaxIntCheck\bin\Debug\netcoreapp3.1\MaxIntCheck.deps.json
+C:\Users\Administrator\Desktop\Session13\MaxIntCheck\MaxIntCheck\bin\Debug\netcoreapp3.1\MaxIntCheck.runtimeconfig.json
+C:\Users\Administrator\Desktop\Session13\MaxIntCheck\MaxIntCheck\bin\Debug\netcoreapp3.1\MaxIntCheck.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Session13\MaxIntCheck\MaxIntCheck\bin\Debug\netcoreapp3.1\MaxIntCheck.dll
+C:\Users\Administrator\Desktop\Session13\MaxIntCheck\MaxIntCheck\bin\Debug\netcoreapp3.1\MaxIntCheck.pdb
+C:\Users\Administrator\Desktop\Session13\MaxIntCheck\MaxIntCheck\obj\Debug\netcoreapp3.1\MaxIntCheck.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Session13\MaxIntCheck\MaxIntCheck\obj\Debug\netcoreapp3.1\MaxIntCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Session13\MaxIntCheck\MaxIntCheck\obj\Debug\netcoreapp3.1\MaxIntCheck.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Session13\MaxIntCheck\MaxIntCheck\obj\Debug\netcoreapp3.1\MaxIntCheck.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Session13\MaxIntCheck\MaxIntCheck\obj\Debug\netcoreapp3.1\MaxIntCheck.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Session13\MaxIntCheck\MaxIntCheck\obj\Debug\netcoreapp3.1\MaxIntCheck.dll
+C:\Users\Administrator\Desktop\Session13\MaxIntCheck\MaxIntCheck\obj\Debug\netcoreapp3.1\MaxIntCheck.pdb
+C:\Users\Administrator\Desktop\Session13\MaxIntCheck\MaxIntCheck\obj\Debug\netcoreapp3.1\MaxIntCheck.genruntimeconfig.cache
