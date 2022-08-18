@@ -7,13 +7,12 @@ namespace MaxFloatCheck
         static void Main(string[] args)
         {
 
-
             Console.WriteLine("find the number");
             float a = Convert.ToSingle(Console.ReadLine());
             float b = Convert.ToSingle(Console.ReadLine());
             float c = Convert.ToSingle(Console.ReadLine());
-            float output = CheckMaxFloatNum.findmaxnum(a, b, c);
-            //Console.WriteLine("Maximum Number is :" + output);
+            float output = MaxFloatCheck.findmaxnum(a, b, c);
+            Console.WriteLine("Maximum Number is :" + output);
             if (output == a)
             {
                 Console.WriteLine(+a + " is Maximum number place at Position 1");
@@ -26,8 +25,6 @@ namespace MaxFloatCheck
             {
                 Console.WriteLine(+c + " is Maximum number place at Position 3");
             }
-
-
 
         }
     }

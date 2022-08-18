@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Session13\MaxFloatCheck\MaxFloatCheck\bin\Debug\netcoreapp3.1\MaxFloatCheck.exe
+C:\Users\Administrator\Desktop\Session13\MaxFloatCheck\MaxFloatCheck\bin\Debug\netcoreapp3.1\MaxFloatCheck.deps.json
+C:\Users\Administrator\Desktop\Session13\MaxFloatCheck\MaxFloatCheck\bin\Debug\netcoreapp3.1\MaxFloatCheck.runtimeconfig.json
+C:\Users\Administrator\Desktop\Session13\MaxFloatCheck\MaxFloatCheck\bin\Debug\netcoreapp3.1\MaxFloatCheck.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Session13\MaxFloatCheck\MaxFloatCheck\bin\Debug\netcoreapp3.1\MaxFloatCheck.dll
+C:\Users\Administrator\Desktop\Session13\MaxFloatCheck\MaxFloatCheck\bin\Debug\netcoreapp3.1\MaxFloatCheck.pdb
+C:\Users\Administrator\Desktop\Session13\MaxFloatCheck\MaxFloatCheck\obj\Debug\netcoreapp3.1\MaxFloatCheck.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Session13\MaxFloatCheck\MaxFloatCheck\obj\Debug\netcoreapp3.1\MaxFloatCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Session13\MaxFloatCheck\MaxFloatCheck\obj\Debug\netcoreapp3.1\MaxFloatCheck.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Session13\MaxFloatCheck\MaxFloatCheck\obj\Debug\netcoreapp3.1\MaxFloatCheck.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Session13\MaxFloatCheck\MaxFloatCheck\obj\Debug\netcoreapp3.1\MaxFloatCheck.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Session13\MaxFloatCheck\MaxFloatCheck\obj\Debug\netcoreapp3.1\MaxFloatCheck.dll
+C:\Users\Administrator\Desktop\Session13\MaxFloatCheck\MaxFloatCheck\obj\Debug\netcoreapp3.1\MaxFloatCheck.pdb
+C:\Users\Administrator\Desktop\Session13\MaxFloatCheck\MaxFloatCheck\obj\Debug\netcoreapp3.1\MaxFloatCheck.genruntimeconfig.cache

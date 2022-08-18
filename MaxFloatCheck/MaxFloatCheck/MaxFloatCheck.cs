@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MaxIntCheck
+namespace MaxFloatCheck
 {
-    class MaxIntCheck
+    class MaxFloatCheck
     {
-        public static int findmaxnum(int a, int b, int c)
+
+        public static float findmaxnum(float a, float b, float c)
         {
             if (a.CompareTo(b) > 0 && a.CompareTo(c) > 0)
             {
@@ -31,8 +32,8 @@ namespace MaxIntCheck
             throw new Exception("a,b,c are same");
 
 
-        }
 
+        }
 
     }
 }
